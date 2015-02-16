@@ -1,2 +1,1 @@
-# cs3240-labdemo
-Repository for our lab demo for CS3240
+Repository for today's lab demo for CS3240
